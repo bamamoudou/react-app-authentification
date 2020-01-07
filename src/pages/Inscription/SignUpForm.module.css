@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signUp{
+    margin-top: 50px;
+    width: 300px;
+    background: hsl(0, 0%, 95%);
+    height: 500px;
+    padding: 80px 40px;
+    border-radius: 10px;
+}
+.champ{
+    text-align: center;
+    width: 100%;
+}
+.champ > input {
+    background: none;
+    border: 0;
+    outline: none;
+    border-bottom: 2px solid #adadad;
+    margin-bottom: 20px;
+    width: 100%;
+  } 
+  .champ  > * {
+    display: flex;
+  }

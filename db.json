@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 5,
+        "username": "Test",
+        "email": "test@email.com",
+        "password": "test",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3QiLCJpZCI6MTl9.KRdrqmAMDBwb64_9WkSfbL_FAUYrtL_yBlqs_6Y3a9s"
+      },
+      {
+        "id": 20,
+        "username": "Fabio",
+        "email": "fabio@email.com",
+        "password": "fabio",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3QiLCJpZCI6MTl9.KRdrqmAMDBwb64_9WkSfbL_FAUYrtL_yBlqs_6Y3a9s"
+      },
+      {
+        "id": 30,
+        "username": "Fabio",
+        "email": "fabio@email.com",
+        "password": "fabio",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3QiLCJpZCI6MTl9.KRdrqmAMDBwb64_9WkSfbL_FAUYrtL_yBlqs_6Y3a9s"
+      }
+    ]
+  }
