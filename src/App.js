@@ -1,7 +1,8 @@
 import React from 'react'
-import Login from './pages/Login/LoginForm'
+//import Login from './pages/Login/LoginForm'
+import Login from './pages/Login/Login'
 import AuthContext, { initialValues } from './context/authentication-context'
-import Inscription from './pages/Inscription/SignUpForm'
+import Inscription from './pages/Inscription/Signup'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 class App extends React.Component {
